@@ -1,9 +1,7 @@
 # system.prop for SCH-R530U
 #
 
-# cannot take spaces
 rild.libargs=-d /dev/smd0
-
 ro.cdma.home.operator.numeric=311580
 ro.cdma.home.operator.alpha=U.S.Cellular
 ro.cdma.subscribe_on_ruim_ready=true
@@ -11,8 +9,6 @@ ro.ril.svdo=true
 ro.telephony.default_network=8
 telephony.lteOnCdmaDevice=1
 telephony.sms.pseudo_multipart=1
-
-# More ril props
 persist.radio.snapshot_enabled=1
 persist.radio.snapshot_timer=22
 ro.config.combined_signal=true
