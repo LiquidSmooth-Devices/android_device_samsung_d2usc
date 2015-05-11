@@ -25,7 +25,7 @@
     },
     {
         "remote": "gh",
-        "repository": "GalaxyS3Kernel/android_kernel_samsung_d2",
+        "repository": "deadman96385/Deathly_Kernel_D2",
         "target_path": "kernel/samsung/d2",
         "revision": "5.1"
     },
