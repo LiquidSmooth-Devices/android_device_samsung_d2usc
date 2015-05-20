@@ -1,38 +1,8 @@
 [
-    {
-        "remote": "lsd",
-        "repository": "android_device_samsung_msm8960-common",
-        "target_path": "device/samsung/msm8960-common",
-        "revision": "5.1"
-    },
-    {
-        "remote": "lsd",
-        "repository": "android_device_samsung_d2-common",
-        "target_path": "device/samsung/d2-common",
-        "revision": "5.1"
-    },
-    {
-        "remote": "lsd",
-        "repository": "android_device_samsung_qcom-common",
-        "target_path": "device/samsung/qcom-common",
-        "revision": "5.1"
-    },
-    {
-        "remote": "cm",
-        "repository": "android_hardware_samsung",
-        "target_path": "hardware/samsung",
-        "revision": "cm-12.1"
-    },
-    {
-        "remote": "gh",
-        "repository": "deadman96385/Deathly_Kernel_D2",
-        "target_path": "kernel/samsung/d2",
-        "revision": "5.1"
-    },
-    {
-        "remote": "tm",
-        "repository": "proprietary_vendor_samsung",
-        "target_path": "vendor/samsung",
-        "revision": "cm-12.1"
-    }
+  {
+    "remote": "gh",
+    "repository": "LiquidSmooth-Devices/android_device_samsung_d2-common",
+    "target_path": "device/samsung/d2-common",
+    "revision": "5.1"
+  }
 ]
